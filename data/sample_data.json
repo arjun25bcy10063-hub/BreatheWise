@@ -1,0 +1,13 @@
+{
+  "location": "New Delhi",
+  "weather": {
+    "temperature_c": 32,
+    "humidity_pct": 65,
+    "uv_index": 7
+  },
+  "air_quality": {
+    "us_aqi": 125,
+    "pm2_5": 65,
+    "pm10": 110
+  }
+}
